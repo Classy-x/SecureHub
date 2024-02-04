@@ -1,4 +1,4 @@
-# Project Name
+# SecureHub
 
 ## Overview
 
@@ -15,18 +15,18 @@ This project includes the implementation of a combined Sign-in and Login system 
 
 1. **Sign In:**
    - Visit the Signin page.
-   - Enter your username and password.
+   - Enter your username, mail and password.
    - Click the "Sign In" button.
 
 2. **Login:**
    - Visit the Login page.
    - Provide your existing credentials.
    - Click the "Login" button.
+## Technologies Used
 
-## Installation
+| Technology          | Description                                      |
+|---------------------|--------------------------------------------------|
+| **HTML5**           | Markup language for structuring content.         |
+| **CSS3**            | Style sheet language for page presentation.      |
+| **JavaScript**      | Programming language for interactive web pages.  |
 
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
