@@ -15,7 +15,7 @@ This project includes the implementation of a combined Sign-in and Login system 
 
 1. **Sign In:**
    - Visit the Signin page.
-   - Enter your username, mail and password.
+   - Enter your username, email, and password.
    - Click the "Sign In" button.
 
 2. **Login:**
