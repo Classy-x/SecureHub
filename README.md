@@ -13,7 +13,7 @@ This project includes the implementation of a combined Sign-in and Login system 
 
 ## Demo
 
-Check out the live demo [here](https://classy-x.github.io/Acme-Website-Design/).
+Check out the live demo [here](https://classy-x.github.io/SecureHub/).
 
 
 ## Features
