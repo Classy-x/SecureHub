@@ -1,8 +1,20 @@
 # SecureHub
 
+## Table of Contents
+- [Overview](#overview)
+- [Demo](#demo)
+- [Features](#features)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+
 ## Overview
 
 This project includes the implementation of a combined Sign-in and Login system for GitHub. Users can access and manage their accounts, ensuring a secure and seamless authentication process.
+
+## Demo
+
+Check out the live demo [here](https://classy-x.github.io/Acme-Website-Design/).
+
 
 ## Features
 
