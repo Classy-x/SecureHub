@@ -58,7 +58,7 @@ mail.addEventListener("focusin", () => {
          alpha=true;break;
        }
     }
-    if(alpha){
+    if(!alpha){
         sp.textContent="Only alphabets are allowed"
     }
     
